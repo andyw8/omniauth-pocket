@@ -1,12 +1,15 @@
-# OmniAuth::Pocket
+# OmniAuth::Pocket OAuth 2
 
 An OmniAuth Strategy for getpocket.com.
+
+This is based on [omniauth-pocket](https://github.com/leppert/omniauth-pocket)
+but updated for OAuth 2.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'omniauth-pocket'
+    gem 'omniauth-pocket-oauth2'
 
 And then execute:
 
@@ -14,7 +17,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install omniauth-pocket
+    $ gem install omniauth-pocket-oauth2
 
 ## Setup
 
