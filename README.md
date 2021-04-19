@@ -3,7 +3,7 @@
 An OmniAuth Strategy for getpocket.com.
 
 This is based on [omniauth-pocket](https://github.com/leppert/omniauth-pocket)
-but updated for OAuth 2.
+but updated to require omniauth >= 2.0.0 due to https://github.com/omniauth/omniauth/wiki/Resolving-CVE-2015-9284.
 
 ## Installation
 
